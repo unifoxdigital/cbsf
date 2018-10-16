@@ -25,7 +25,7 @@
 <script src="js/vendor/modernizr-3.5.0.min.js"></script>
 
 <!--Slider-->
-<!-- <link rel="stylesheet" type="text/css" href="css/demo.css" />
-
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="js/script.js"></script> -->
+<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+<script type="text/javascript" src="engine1/jquery.js"></script>
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+<script type="text/javascript" src="engine1/script.js"></script>

@@ -12,9 +12,14 @@
         <!-- Header -->
         <?php include 'header.php' ?>
         <!-- //Header -->
+        <div class="container" style="padding-top: 119px;">
+            <div class="row">
+                <?php include 'slider.php' ?>
+            </div>
+        </div>
 
         <!-- Breacrumb Area -->
-        <div class="breadcrumb-area" data-black-overlay="7">
+        <!-- <div class="breadcrumb-area" data-black-overlay="7">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
@@ -22,16 +27,18 @@
                             <h1>Digital Creative Studio</h1>
                             <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old !
                             </p> 
+                            
                         </div>
                     </div>
+
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--// Breacrumb Area -->
 
 
         <!-- Page Content -->
-        <main class="page-content">
+        <div class="page-content">
 
             <!-- Portfolio Area -->
             <section class="portfolio-area section-padding-lg bg-white">
@@ -44,7 +51,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="container">
                     <div class="portfolio-wrap">
@@ -317,7 +324,7 @@
             <!--// Portfolio Area -->
 
             <!-- Call To Action Area -->
-            <section class="callto-action-area bg-theme">
+            <!-- <section class="callto-action-area bg-theme">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-10 offset-lg-1 col-12 offset-0">
@@ -332,10 +339,10 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!--// Call To Action Area -->
 
-        </main>
+        </div>
         <!--// Page Content -->
 
         <!-- Footer Area -->

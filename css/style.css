@@ -470,16 +470,16 @@ textarea {
 
 /* Background Color */
 .bg-theme {
-  background: #3366cc !important; }
+   }
 
 .bg-dark-light {
-  background: #f4f5fb  !important; }
+   }
 
 .bg-white {
-  background: #ffffff !important; }
+   }
 
 .bg-grey {
-  background: #f7f7f7 !important; }
+   }
 
 /* Background Image */
 /* Border */
@@ -1219,10 +1219,10 @@ h6.small-title {
   background-size: cover; }
 
 .cr-breadcrumb {
-  padding: 280px 0;
+  padding: 0px 0;
   color: #0e9544; }
   .cr-breadcrumb.text-center {
-    padding: auto 50px; }
+    /*padding: auto 50px;*/ }
   .cr-breadcrumb h1 {
     font-size: 50px;
     letter-spacing: 1px; }
@@ -1255,7 +1255,7 @@ h6.small-title {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .cr-breadcrumb {
-    padding: 200px 0; } }
+        padding: 119px 0; } }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .cr-breadcrumb {
     padding: 150px 0; } }
