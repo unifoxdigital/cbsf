@@ -1,219 +1,56 @@
-<header class="header header-style transparent-header sticky-header" style="text-align: center">
-            <div class="container d-none d-lg-block">
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div class="header-inner">
-                            <div class="logo">
-                                <!-- <a href="index.html">
-
-                                    <img class="bottom" src="images/msi_2.png" alt="logo">
-                                </a> -->
-                                <div id="fade">
-                                    <!-- <img class="booto" src="images/A.png"> -->
-                                    <!-- <div class="bottom">
-                                        <img src="images/msi_2.png">
-                                    </div>
-                                    <div class="top">
-                                        <img src="images/main_logo.png">
-                                    </div> -->
-                                    <img class="bottom" src="images/msi_2.png" />
-                                    <img class="top" src="images/main_logo.png" />
-
-                                </div>
-                                
-                            </div>
-                            <nav class="menu">
-                                <ul>
-                                    <li>
-                                        <a href="index.php">Home</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">About Us</a>
-                                    </li>
-                                    <!-- <li>
-                                        <a href="#">Services</a>
-                                    </li> -->
-                                    
-                                    <li class="cr-dropdown">
-                                        <a href="javascript:;">Sister Concerns</a>
-                                        <ul>
-                                            <li class="cr-sub-dropdown">
-                                                <a href="javascript:;">Home</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="index.html">Home</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single.html">Single</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="contact.html">Contact</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="cr-sub-dropdown">
-                                                <a href="javascript:;">Single</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="index.html">Home</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single.html">Single</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="contact.html">Contact</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="cr-sub-dropdown">
-                                                <a href="javascript:;">Contact</a>
-                                                <ul>
-                                                    <li>
-                                                        <a href="index.html">Home</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="single.html">Single</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="contact.html">Contact</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="#">FAQ</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Team</a>
-                                            </li>
-                                            <li>
-                                                <a href="#">Videos</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                    <li class="cr-megamenu">
-                                        <a href="javascript:;">Features</a>
-                                        <div class="cr-megamenu-wrap">
-
-                                            <!-- Megamenu Single Block -->
-                                            <div class="cr-megamenu-single">
-                                                <h6>Widget Header</h6>
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">Awesome Features</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Clean Interface</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Responsive Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Pixel Perfect Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">W3C Validate</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <!--// Megamenu Single Block -->
-
-                                            <!-- Megamenu Single Block -->
-                                            <div class="cr-megamenu-single">
-                                                <h6>Widget Header</h6>
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">Awesome Features</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Clean Interface</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Responsive Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Pixel Perfect Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">W3C Validate</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <!--// Megamenu Single Block -->
-
-                                            <!-- Megamenu Single Block -->
-                                            <div class="cr-megamenu-single">
-                                                <h6>Widget Header</h6>
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">Awesome Features</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Clean Interface</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Responsive Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Pixel Perfect Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">W3C Validate</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <!--// Megamenu Single Block -->
-
-                                            <!-- Megamenu Single Block -->
-                                            <div class="cr-megamenu-single">
-                                                <h6>Widget Header</h6>
-                                                <ul>
-                                                    <li>
-                                                        <a href="#">Awesome Features</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Clean Interface</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Responsive Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">Pixel Perfect Design</a>
-                                                    </li>
-                                                    <li>
-                                                        <a href="#">W3C Validate</a>
-                                                    </li>
-                                                </ul>
-                                            </div>
-                                            <!--// Megamenu Single Block -->
-                                            
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <a href="contact.html">Contact</a>
-                                    </li>
-                                </ul>
-                            </nav>
-                            <!-- <a href="" class="cr-btn cr-btn-sm">
-                                <!-- <span></span> -->
-                            </a> 
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Mobile Menu -->
-            <div class="mobile-menu-wrapper">
-                <div class="container d-block d-lg-none">
-                    <div class="mobile-menu clearfix">
-                        <a class="mobile-logo" href="index.html">
-                            <img src="images/logo.png" alt="mobile logo">
-                        </a>
-                        <a href="javascript:;" class="cr-btn cr-btn-sm">
-                            <span>Buy now</span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <!-- //Mobile Menu -->
-
-        </header>
+<!-- Navigation -->
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Start Bootstrap</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="services.html">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownPortfolio" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Portfolio
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownPortfolio">
+                <a class="dropdown-item" href="portfolio-1-col.html">1 Column Portfolio</a>
+                <a class="dropdown-item" href="portfolio-2-col.html">2 Column Portfolio</a>
+                <a class="dropdown-item" href="portfolio-3-col.html">3 Column Portfolio</a>
+                <a class="dropdown-item" href="portfolio-4-col.html">4 Column Portfolio</a>
+                <a class="dropdown-item" href="portfolio-item.html">Single Portfolio Item</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Blog
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="blog-home-1.html">Blog Home 1</a>
+                <a class="dropdown-item" href="blog-home-2.html">Blog Home 2</a>
+                <a class="dropdown-item" href="blog-post.html">Blog Post</a>
+              </div>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Other Pages
+              </a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="full-width.html">Full Width Page</a>
+                <a class="dropdown-item" href="sidebar.html">Sidebar Page</a>
+                <a class="dropdown-item" href="faq.html">FAQ</a>
+                <a class="dropdown-item" href="404.html">404</a>
+                <a class="dropdown-item" href="pricing.html">Pricing Table</a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
