@@ -3,7 +3,14 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-logomodern-business-nav/blob/master/LICENSE)
  */
-
+.back {
+  background-image: url(https://placeimg.com/1000/600/tech);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 90vh;
+}
 body {
   padding-top: 54px;
 }
