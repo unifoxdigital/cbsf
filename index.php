@@ -18,42 +18,44 @@
     </header>
 
     <!-- Page Content -->
-    <div class="container back">
+    <div class="back">
+      <div class="container">
 
-      <h1 class="my-4" style="text-align: center;">Welcome to Cox's Bazar Sea Food</h1>
+      <h1 class="my-4" style="text-align: center; color:white;">Welcome to Cox's Bazar Sea Food</h1>
+      <p class="my-4" style="text-align: center; color:white;">The unpolluted brackish waters of the Bay of Bengal are home of various species of marine shrimps and demersal fish. Among marine shrimps, major species in terms of volume of yield from catches, landings and aquaculture are the giant tiger shrimps and yellow shrimps.</p>
 
       <!-- Marketing Icons Section -->
       <div class="row">
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
-            <h4 class="card-header">Card Title</h4>
-            <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
-            </div>
-            <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 mb-4">
-          <div class="card h-100">
-            <h4 class="card-header">Card Title</h4>
-            <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis ipsam eos, nam perspiciatis natus commodi similique totam consectetur praesentium molestiae atque exercitationem ut consequuntur, sed eveniet, magni nostrum sint fuga.</p>
-            </div>
-            <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
+            <div class="hovereffect">
+              <img class="img-responsive" src="http://placehold.it/350x200" alt="">
+              <div class="overlay">
+                <h2>Effect 11</h2>
+                  <p> <a href="#">LINK HERE</a> </p>
+              </div>
             </div>
           </div>
         </div>
         <div class="col-lg-4 mb-4">
           <div class="card h-100">
-            <h4 class="card-header">Card Title</h4>
-            <div class="card-body">
-              <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente esse necessitatibus neque.</p>
+            <div class="hovereffect">
+              <img class="img-responsive" src="http://placehold.it/350x200" alt="">
+              <div class="overlay">
+                <h2>Effect 11</h2>
+                  <p> <a href="#">LINK HERE</a> </p>
+              </div>
             </div>
-            <div class="card-footer">
-              <a href="#" class="btn btn-primary">Learn More</a>
+          </div>
+        </div>
+        <div class="col-lg-4 mb-4">
+          <div class="card h-100">
+            <div class="hovereffect">
+              <img class="img-responsive" src="http://placehold.it/350x200" alt="">
+              <div class="overlay">
+                <h2>Effect 11</h2>
+                  <p> <a href="#">LINK HERE</a> </p>
+              </div>
             </div>
           </div>
         </div>
@@ -63,6 +65,9 @@
       
 
     </div>
+      
+    </div>
+    
     <!-- /.container -->
 
     <!-- Footer -->
