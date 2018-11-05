@@ -71,7 +71,7 @@
     <!-- /.container -->
 
     <!-- Footer -->
-    <footer class="py-5 bg-dark">
+    <footer class="footer-distributed">
       <?php include ('footer.php') ?>
       <!-- /.container -->
     </footer>
