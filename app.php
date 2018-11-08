@@ -47,3 +47,4 @@
 
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.js"></script>
+		<link rel="stylesheet" type="text/css" href="css/style.css">

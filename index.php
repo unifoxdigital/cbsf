@@ -11,21 +11,45 @@
 				<div class="slider-container rev_slider_wrapper" style="height: 360px;">
 					<iframe src="wowslider.html" style="width:100%;height:360px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 				</div>
-				
-		
-
-				
-				
-				<section class="parallax section section-text-light section-parallax section-center mt-xl mb-xl pb-none" data-stellar-background-ratio="0.5" style="background-image: url(img/parallax-landing.jpg);">
+				<section class="section section-default section-with-mockup mb-none">
 					<div class="container">
 						<div class="row">
-							<div class="col-md-12">
-								<img src="img/landing-page-style-switcher.png" class="img-responsive">
-							</div>
-						</div>
+					        <div class="col-lg-4 mb-4">
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="img/frshwater_fish.jpg" alt="">
+					              <div class="overlay">
+					                <h2>Fresh Water Fish</h2>
+					                  <p> <a href="#">LINK HERE</a> </p>
+					              </div>
+					            </div>
+					          </div>
+					        </div>
+					        <div class="col-lg-4 mb-4">
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="http://placehold.it/350x200" alt="">
+					              <div class="overlay">
+					                <h2>Effect 11</h2>
+					                  <p> <a href="#">LINK HERE</a> </p>
+					              </div>
+					            </div>
+					          </div>
+					        </div>
+					        <div class="col-lg-4 mb-4">
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="http://placehold.it/350x200" alt="">
+					              <div class="overlay">
+					                <h2>Effect 11</h2>
+					                  <p> <a href="#">LINK HERE</a> </p>
+					              </div>
+					            </div>
+					          </div>
+					        </div>
+					      </div>
 					</div>
 				</section>
-				
 			</div>
  
 			<?php include ('footer.php'); ?>
