@@ -1,16 +1,15 @@
 <!-- Basic -->
-		<meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">	
+			
 
 		<title>Cox's Bazar Sea Food</title>	
 
-		<meta name="keywords" content="HTML5 Template" />
+		<meta name="keywords" content="home of coxbazar sea food" />
 		<meta name="description" content="home of coxbazar sea food">
 		<meta name="author" content="http://unifoxdigitalmedia.com/">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+		<link rel="shortcut icon" href="img/cbsf.jpg" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="img/cbsf.jpg">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
@@ -48,3 +47,4 @@
 		<!-- Head Libs -->
 		<script src="vendor/modernizr/modernizr.js"></script>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
+		<script type="text/javascript" src="js/package/jquery-1.7.2.min.js"></script>

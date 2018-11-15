@@ -9,9 +9,10 @@
 			<?php include ('header.php'); ?>
 
 			<div role="main" class="main background_img" >
-					<div>
+					<div class="background_img">
 						<div style="text-align: center;"></div>
-							<iframe src="header_slider.html" style="width:300%;height:360px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+							<iframe src="header_slider.html" style="text-align: center;width:100%;height:450px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
+						
 					</div>
 					
 				<!-- section class="section section-default section-with-mockup mb-none"> -->
@@ -21,46 +22,38 @@
 							<a href="about_us.php"><p style="text-align: center;">Read More..</p></a>
 						<div class="row">
 					        <div class="col-lg-4 mb-4">
-					          <a href="salt_water_fish.php">
-						          	<div class="card h-100">
-						            <div class="hovereffect">
-						              <img class="img-responsive" src="img/fish_saltwater.jpg" alt="">
-						              <div class="overlay">
-						                <h2>Salt Water Fish</h2>
-						                  <p> <a href="salt_water_fish.php">Know About More</a> </p>
-						              </div>
-						            </div>
-						          </div>
-					          </a>
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="img/fish_saltwater.jpg" alt="">
+					              <div class="overlay">
+					                <h2>Salt Water Fish</h2>
+					                  <p> <a href="salt_water_fish.php">Know About More</a> </p>
+					              </div>
+					            </div>
+					          </div>
 					        </div>
 					        <div class="col-lg-4 mb-4">
-					        	<a href="fresh_water_fish.php">
-					        		<div class="card h-100">
-							            <div class="hovereffect">
-							              <img class="img-responsive" src="img/fish_freshwater.jpg" alt="">
-							              <div class="overlay">
-							                <h2>Fresh Water Fish</h2>
-							                  <p> <a href="fresh_water_fish.php">Know About More</a> </p>
-							              </div>
-							            </div>
-							          </div>
-					        	</a>
-					          
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="img/fish_freshwater.jpg" alt="">
+					              <div class="overlay">
+					                <h2>Fresh Water Fish</h2>
+					                  <p> <a href="fresh_water_fish.php">Know About More</a> </p>
+					              </div>
+					            </div>
+					          </div>
 					        </div>
 					        <div class="col-lg-4 mb-4">
-						        <a href="shrimp_sea_food.php">
-						        	<div class="card h-100">
-							            <div class="hovereffect">
-							              <img class="img-responsive" src="img/fish_shrimp.jpg" alt="">
-							              <div class="overlay">
-							                <h2>Shrimp and Other Sea Food</h2>
-							                  <p> <a href="shrimp_sea_food.php">Know About More</a> </p>
-							              </div>
-							            </div>
-							          </div>
-					        		</div>
-						        </a>
-					          
+					          <div class="card h-100">
+					            <div class="hovereffect">
+					              <img class="img-responsive" src="img/fish_shrimp.jpg" alt="">
+					              <div class="overlay">
+					                <h2>Shrimp and Other Sea Food</h2>
+					                  <p> <a href="shrimp_sea_food.php">Know About More</a> </p>
+					              </div>
+					            </div>
+					          </div>
+					        </div>
 					      </div>
 					</div>
 					

@@ -1,27 +1,26 @@
+<!-- style="background-image: url(img/head_background.jpg);" -->
 <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-47px", "stickyChangeLogo": true}'>
 				<div class="header-body">
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">
-								<div class="header-logo" >
-									<a href=""><img src="img/cbsf.jpg"></a>
-								</div>
+								<a href="cbsf.php"><img class="mySlides" src="img/logos/cbsf.png"></a>
+								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png"></a>
+								<a href="#"><img class="mySlides" src="img/logos/gsp.png"></a>
+								<a href="#"><img class="mySlides" src="img/logos/a&z.png"></a>
+								<!-- <img class="mySlides" src="img/a.jpg"> -->
 							</div>
 							<div class="header-column">
-								<div class="header-row">
+								<!-- <div class="header-row">
 								
 									
-								</div>
+								</div> -->
 								<div class="header-row">
 									<div class="header-nav">
 										<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main">
 											<i class="fa fa-bars"></i>
 										</button>
-										<!-- <ul class="header-social-icons social-icons hidden-xs">
-											<li class="social-icons-facebook"><a href="http://www.facebook.com/" target="_blank" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-											<li class="social-icons-twitter"><a href="http://www.twitter.com/" target="_blank" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-											<li class="social-icons-linkedin"><a href="http://www.linkedin.com/" target="_blank" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
-										</ul> -->
+										
 										<div class="header-nav-main header-nav-main-effect-1 header-nav-main-sub-effect-1 collapse">
 											<nav>
 												<ul class="nav nav-pills" id="mainNav">
@@ -35,23 +34,24 @@
 														<a href="team.php">Team</a>
 													</li> -->
 													<li class="dropdown">
-														<a class="dropdown-toggle" href="#">Products</a>
+														<a class="dropdown-toggle" href="products.php">Products</a>
 														<ul class="dropdown-menu">
-															<li><a href="#" >Sweatwater Fish</a></li>
-															<li><a href="#">Saltwater Fish</a></li>
-															<li><a href="#">Shrimp</a></li>
+															<li><a href="fresh_water_fish.php" >Fresh water Fish</a></li>
+															<li><a href="salt_water_fish.php">Salt water Fish</a></li>
+															<li><a href="shrimp_sea_food.php">Shrimp and Other Sea Food</a></li>
 														</ul>
 													</li>
 													<li class="dropdown">
 														<a class="dropdown-toggle" href="#">Sister Concerns</a>
 														<ul class="dropdown-menu">
-															<li><a href="#" >Company 1</a></li>
-															<li><a href="#">Company 2</a></li>
-															<li><a href="#">Company 3</a></li>
+															<li><a href="cbsf.php" >Cox's Bazar Sea Food</a></li>
+															<li><a href="#" >Global Shrimp</a></li>
+															<li><a href="a&z.php">A&Z International Co. Ltd.</a></li>
+															<li><a href="mazoon.php">Mazoon Sky International Co. Ltd.</a></li>
 														</ul>
 													</li>
 													<li class="dropdown dropdown-mega">
-														<a href="contact.php">Contact Us</a>
+														<a href="contact_us.php">Contact Us</a>
 													</li>
 													
 													<!-- <li class="dropdown">
@@ -71,3 +71,20 @@
 					</div>
 				</div>
 			</header>
+
+			<script>
+				var myIndex = 0;
+				carousel();
+
+				function carousel() {
+				    var i;
+				    var x = document.getElementsByClassName("mySlides");
+				    for (i = 0; i < x.length; i++) {
+				       x[i].style.display = "none";  
+				    }
+				    myIndex++;
+				    if (myIndex > x.length) {myIndex = 1}    
+				    x[myIndex-1].style.display = "block";  
+				    setTimeout(carousel, 6000); // Change image every 2 seconds
+				}
+				</script>

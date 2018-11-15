@@ -7,7 +7,7 @@
 						<div class="col-md-3">
 							<div class="newsletter">
 								<h4>Newsletter</h4>
-								<p>Keep up on our always evolving product features and technology. Enter your e-mail and subscribe to our newsletter.</p>
+								<p>Keep up on our always evolving product. Enter your e-mail and subscribe to our newsletter.</p>
 			
 								<div class="alert alert-success hidden" id="newsletterSuccess">
 									<strong>Success!</strong> You've been added to our email list.
@@ -35,9 +35,9 @@
 							<div class="contact-details">
 								<h4>Contact Us</h4>
 								<ul class="contact">
-									<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> 1234 Street Name, City Name, United States</p></li>
-									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> (123) 456-789</p></li>
-									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">mail@example.com</a></p></li>
+									<li><p><i class="fa fa-map-marker"></i> <strong>Address:</strong> Hajee Para, Zhilongja, Main Road, Cox’s Bazar, Bangladesh</p></li>
+									<li><p><i class="fa fa-phone"></i> <strong>Phone:</strong> +880-341-63396</p></li>
+									<li><p><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">cbsfsygn@gmail.com</a></p></li>
 								</ul>
 							</div>
 						</div>
@@ -55,8 +55,8 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-md-1">
-								<a href="index.html" class="logo">
-									<img alt="Porto Website Template" class="img-responsive" src="img/logo-footer.png">
+								<a href="index.php" class="logo">
+									<img alt="" class="img-responsive" src="img/cbsf.jpg" style="height: 64px; width: 64px;">
 								</a>
 							</div>
 							<div class="col-md-7">
