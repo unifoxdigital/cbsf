@@ -7,7 +7,7 @@
 	</head>
 	<body>
 
-		<div class="body">
+		<div class="body" style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
 			<?php include ('header.php'); ?>
 
 			<div role="main" class="main">
@@ -41,7 +41,7 @@
 							<a href="index-classic.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/calmari.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Calamari (Squid)</h5>
@@ -53,7 +53,7 @@
 							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-color.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/cuttlefish.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Cuttlefish</h5>
@@ -65,7 +65,7 @@
 							<a href="index-classic-light.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-light.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_freshwater.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Shrimp (Giant Freshwater)</h5>
@@ -77,7 +77,7 @@
 							<a href="index-classic-video.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-video.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_black_tiger.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Shrimp (Giant Black Tiger)</h5>
@@ -89,7 +89,7 @@
 							<a href="index-classic-video-light.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-video-light.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_vanemi.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Shrimp (Valnnamei)</h5>
@@ -101,7 +101,7 @@
 							<a href="index-corporate.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-corporate.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/soft_shell_crab.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Soft Shell Crab</h5>

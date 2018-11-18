@@ -1,6 +1,7 @@
 <!-- style="background-image: url(img/head_background.jpg);" -->
 <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-47px", "stickyChangeLogo": true}'>
-				<div class="header-body">
+				<div class="header-body" 
+				style="background-image: url(img/header_background.png); background-repeat: round;">
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">

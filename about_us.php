@@ -41,13 +41,13 @@
 								<h1>About Us</h1>
 							</div>
 							<p>The unpolluted brackish waters of the Bay of Bengal are home of various species of marine shrimps and demersal fish. Among marine shrimps, major species in terms of volume of yield from catches, landings and aquaculture are the giant tiger shrimps and yellow shrimps.</p>
-								<img class="pull-left img-responsive" width="300" height="211" src="img/slides/about_us/IMG_6712.png">
+							<img class="pull-left img-responsive" width="250" height="200" style="margin:16px;"   src="img/slides/about_us/WEB-Photos-8.jpg" alt="Device"><p>
 							
 							
 							<p>From the inland fisheries resources, the major yield for international marketing remains the giant river fish and Cox’s Bazar Sea Foods, operating under the same management, market these products among others, in the international marketing chain for food, fish and sea foods, the former markets under Cox’s Bazar brand, US FDA Code 34.</p>
 							<p>The plants and their facilities are routinely and regularly surveyed and approved by Lloyd’s surveyors. Products come under the routine pre-shipment inspection of the directorate of Fish Inspection & Quality Control Government of Bangladesh, reinforced by Lloyd’s contents, Salmonella, E. Coli, Coli Form, Weight, Grade, Appearance, Smell, etc.</p>
 							
-							<img class="pull-right img-responsive" width="300" height="211"  src="img/device.png" alt="Device">
+							<img class="pull-right img-responsive" width="250" height="211"  src="img/slides/about_us/IMG_6564.png" alt="Device">
 <br>
 <br>
 							<p>The major areas of emphasis, strictly followed by the processing units, for quality control are as follows:</p>
@@ -58,7 +58,7 @@
 								<li>Elimination of poor quality raw materials on arrival at factory and subsequent grading according to size, weight, etc.</li>
 								<li>5.	Early packaging and processing of raw materials</li>
 							</ol>
-							<img class="pull-left img-responsive" width="300" height="211"  src="img/device.png" alt="Device"><p><p>The consistency in quality checks, tests and inspection from raw materials procurement through to export make our produces reliable in matters of health and hygiene and grades, sizes and standard. In marketing of such other exportable item, fresh water fish as well, appropriate and standard quality control procedures are rigorously followed.</p>
+							<img class="pull-left img-responsive" width="250" height="200" style="margin:16px;"   src="img/slides/about_us/WEB-Photos-9.jpg" alt="Device"><p><p><p>The consistency in quality checks, tests and inspection from raw materials procurement through to export make our produces reliable in matters of health and hygiene and grades, sizes and standard. In marketing of such other exportable item, fresh water fish as well, appropriate and standard quality control procedures are rigorously followed.</p>
 							<p>In export shipments, our strength lies in our corporate capabilities in trading, enabling quick and efficient services, without failure of commitments.</p>
 							<p>The location of our factories in Cox’s Bazar, straddling the strategic points of raw materials production, procurement and export in Bangladesh, give us the leeway to serve the requirement of our clients better than the most.</p>
 						</div>

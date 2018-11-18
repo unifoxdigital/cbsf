@@ -4,7 +4,7 @@
 		<?php include ('app.php'); ?>
 		
 	</head>
-	<body>
+	<body class="">
 		<div class="body">
 			<?php include ('header.php'); ?>
 
@@ -20,24 +20,26 @@
 							<p style="text-align: center;">The unpolluted brackish waters of the Bay of Bengal are home of various species of marine shrimps and demersal fish. Among marine shrimps, major species in terms of volume of yield from catches, landings and aquaculture are the giant tiger shrimps and yellow shrimps.</p>
 							<a href="about_us.php"><p style="text-align: center;">Read More..</p></a>
 						<div class="row">
+							<a href="salt_water_fish.php">
 					        <div class="col-lg-4 mb-4">
-					          <a href="salt_water_fish.php">
+					          
 						          	<div class="card h-100">
 						            <div class="hovereffect">
-						              <img class="img-responsive" src="img/fish_saltwater.jpg" alt="">
+						              <img class="img-responsive" src="img/slides/home/V3.gif" alt="">
 						              <div class="overlay">
 						                <h2>Salt Water Fish</h2>
 						                  <p> <a href="salt_water_fish.php">Know About More</a> </p>
 						              </div>
 						            </div>
 						          </div>
-					          </a>
+					          
 					        </div>
+					        </a>
 					        <div class="col-lg-4 mb-4">
 					        	<a href="fresh_water_fish.php">
 					        		<div class="card h-100">
 							            <div class="hovereffect">
-							              <img class="img-responsive" src="img/fish_freshwater.jpg" alt="">
+							              <img class="img-responsive" src="img/slides/home/V1.gif" alt="">
 							              <div class="overlay">
 							                <h2>Fresh Water Fish</h2>
 							                  <p> <a href="fresh_water_fish.php">Know About More</a> </p>
@@ -51,7 +53,7 @@
 						        <a href="shrimp_sea_food.php">
 						        	<div class="card h-100">
 							            <div class="hovereffect">
-							              <img class="img-responsive" src="img/fish_shrimp.jpg" alt="">
+							              <img class="img-responsive" src="img/slides/home/V2.gif" alt="">
 							              <div class="overlay">
 							                <h2>Shrimp and Other Sea Food</h2>
 							                  <p> <a href="shrimp_sea_food.php">Know About More</a> </p>

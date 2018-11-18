@@ -1,14 +1,15 @@
-
+.home_background{
+  background-image: url('../img/IMG_5336.jpg');
+}
 
 .header_background{
-  background-image: url("img/head_background.jpg");
-  background-color: #cccccc; 
-  /*background-color: */
+  background-color: #000000;
+   background-image: url(../img/header_background.png); 
+   background-position: 100% 100%;
+   background-repeat: no-repeat; 
+  
 }
-.background_about {
-    background:url('img/IMG_5431.jpg');
-    position: relative;
-}
+
 
 .layer_about {
     background-color: rgba(248, 247, 216, 0.7);

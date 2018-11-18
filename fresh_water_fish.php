@@ -7,7 +7,7 @@
 	</head>
 	<body>
 
-		<div class="body">
+		<div class="body" style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
 			<?php include ('header.php'); ?>
 
 			<div role="main" class="main">
@@ -42,7 +42,7 @@
 							<a href="index-classic.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/barmundi.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Baramundi</h5>
@@ -54,7 +54,7 @@
 							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-color.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/basa.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Basa</h5>
@@ -66,7 +66,7 @@
 							<a href="index-classic-light.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-light.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/catla.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Catla</h5>
@@ -78,7 +78,7 @@
 							<a href="index-classic-video.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-video.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/foly.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Foly</h5>
@@ -90,7 +90,7 @@
 							<a href="index-classic-video-light.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-classic-video-light.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/hilsha.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Hilsha (Ilish)</h5>
@@ -102,7 +102,7 @@
 							<a href="index-corporate.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-corporate.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/mrigal.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Mrigal</h5>
@@ -114,7 +114,7 @@
 							<a href="index-corporate-2.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-corporate-version2.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/rohu.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Rohu (Rui)</h5>
@@ -126,7 +126,7 @@
 							<a href="index-corporate-3.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-corporate-version3.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/tilapia.png" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Tilapia</h5>
@@ -138,7 +138,7 @@
 							<a href="index-corporate-4.html" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/previews/preview-corporate-version4.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/boal.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Wallago (Boal)</h5>
