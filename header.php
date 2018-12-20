@@ -1,14 +1,14 @@
 <!-- style="background-image: url(img/head_background.jpg);" -->
 <header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-47px", "stickyChangeLogo": true}'>
-				<div class="header-body" 
-				style="background-image: url(img/header_background.png); background-repeat: round;">
+				<div class="header-body" >
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">
 								<a href="cbsf.php"><img class="mySlides" src="img/logos/cbsf.png"></a>
-								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png"></a>
+								<a href="#"><img class="mySlides" src="img/logos/a_z.png"></a>
 								<a href="#"><img class="mySlides" src="img/logos/gsp.png"></a>
-								<a href="#"><img class="mySlides" src="img/logos/a&z.png"></a>
+								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png"></a>
+								<a href="#"><img class="mySlides" src="img/logos/ah.png"></a>
 								<!-- <img class="mySlides" src="img/a.jpg"> -->
 							</div>
 							<div class="header-column">
@@ -45,9 +45,8 @@
 													<li class="dropdown">
 														<a class="dropdown-toggle" href="#">Sister Concerns</a>
 														<ul class="dropdown-menu">
-															<li><a href="cbsf.php" >Cox's Bazar Sea Food</a></li>
-															<li><a href="#" >Global Shrimp</a></li>
-															<li><a href="a&z.php">A&Z International Co. Ltd.</a></li>
+															<li><a href="cbsf.php" >Cox's Bazar Sea Foods</a></li>
+															<li><a href="a&z.php">A&Z International Co., Ltd. &<br> Global Seafoods Processing Ltd.</a></li>
 															<li><a href="mazoon.php">Mazoon Sky International Co. Ltd.</a></li>
 														</ul>
 													</li>

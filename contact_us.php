@@ -32,7 +32,7 @@
 
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 				<div style="text-align: center;">
-					<img src="img/contact_us.jpg">
+					<img src="img/contact_us.png">
 				</div>
 
 				<div class="container">

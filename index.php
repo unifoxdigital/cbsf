@@ -10,7 +10,7 @@
 
 			<div role="main" class="main background_img" >
 					<div>
-						<div style="text-align: center;"></div>
+						<div style="text-align: center; background-color: #3D7A65"></div>
 							<iframe src="header_slider.html" style="width:300%;height:360px;max-width:100%;overflow:hidden;border:none;padding:0;margin:0 auto;display:block;" marginheight="0" marginwidth="0"></iframe>
 					</div>
 					
@@ -61,8 +61,7 @@
 							            </div>
 							          </div>
 					        		</div>
-						        </a>
-					          
+						        </a>  
 					      </div>
 					</div>
 					
