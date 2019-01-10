@@ -38,7 +38,7 @@
 					<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="calamari.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/calmari.jpg" data-plugin-lazyload></span>
@@ -50,7 +50,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="cuttlefish.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/cuttlefish.jpg" data-plugin-lazyload></span>
@@ -62,7 +62,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-giant-black-tiger.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_freshwater.jpg" data-plugin-lazyload></span>
@@ -74,7 +74,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-giant-black-tiger.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_black_tiger.jpg" data-plugin-lazyload></span>
@@ -86,19 +86,19 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-vannamei.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/shrimp_vanemi.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Shrimp (Valnnamei)</h5>
+								<h5 class="mb-xs">Shrimp (Vannamei)</h5>
 							</a>
 						</div>
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="soft-shell-crab.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/mud_crab.png" data-plugin-lazyload></span>

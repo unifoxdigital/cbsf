@@ -8,8 +8,8 @@
 		<meta name="author" content="http://unifoxdigitalmedia.com/">
 
 		<!-- Favicon -->
-		<link rel="shortcut icon" href="img/cbsf.jpg" type="image/x-icon" />
-		<link rel="apple-touch-icon" href="img/cbsf.jpg">
+		<link rel="shortcut icon" href="img/logos/cbsf.png" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="img/logos/cbsf.png">
 
 		<!-- Mobile Metas -->
 		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">

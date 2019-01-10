@@ -38,7 +38,7 @@
 					<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="halibut.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/halibut.jpg" data-plugin-lazyload></span>
@@ -50,7 +50,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="hilsha.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/hilsha.jpg" data-plugin-lazyload></span>
@@ -62,7 +62,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="mackerel.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/mackerel.jpg" data-plugin-lazyload></span>
@@ -74,7 +74,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="mahi-mahi.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/mahi.jpg" data-plugin-lazyload></span>
@@ -86,7 +86,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="moonfish.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/moonfish.jpg" data-plugin-lazyload></span>
@@ -98,7 +98,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="pomfret.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/pomfet.jpg" data-plugin-lazyload></span>
@@ -110,7 +110,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="ribbon-fish.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/ribbon.jpg" data-plugin-lazyload></span>
@@ -122,7 +122,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="sardines.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/sardained.jpg" data-plugin-lazyload></span>
@@ -134,7 +134,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="striped-red-mullet.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/striped_red_mullet.jpg" data-plugin-lazyload></span>
@@ -146,7 +146,7 @@
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
-							<a href="index-classic-color.html" class="text-decoration-none block-link pt-md">
+							<a href="yellow-croaker.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
 										<span class="thumb-info-image" data-original="img/fish/yellow_croaker.jpg" data-plugin-lazyload></span>
