@@ -120,7 +120,7 @@
 										<span class="thumb-info-image" data-original="img/fish/foly.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Foly (Bronze Featherback)</h5>
+								<h5 class="mb-xs">Foly </h5>
 							</a>
 						</div>
 					</li>

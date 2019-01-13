@@ -60,7 +60,7 @@
 								</a>
 							</div>
 							<div class="col-md-7">
-								<p>© Copyright 2015. All Rights Reserved.</p>
+								<p>© Copyright 2019. All Rights Reserved.</p>
 							</div>
 							<div class="col-md-4">
 								<nav id="sub-menu">

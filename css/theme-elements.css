@@ -1660,6 +1660,7 @@ ul.sitemap.list ul {
 
 .tabs.tabs-bottom .nav-tabs li:last-child a {
 	margin-right: 0;
+	
 }
 
 .tabs.tabs-bottom .nav-tabs li a {
@@ -4746,7 +4747,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 }
 
 .thumb-info.thumb-info-preview .thumb-info-image {
-	min-height: 232px;
+	min-height: 108px;
 	display: block;
 	background-position: center top;
 	background-repeat: no-repeat;
