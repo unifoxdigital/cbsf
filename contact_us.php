@@ -32,7 +32,7 @@
 
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 				<div style="text-align: center;">
-					<img src="img/contact_us.png">
+					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3714.108925257335!2d92.01142541441399!3d21.424963179511256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adc7b0dc6ab887%3A0xc187e8c8d4d0e1ac!2sCox&#39;s+Bazar+Sea+Foods!5e0!3m2!1sen!2sbd!4v1547714264499" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 				</div>
 
 				<div class="container">

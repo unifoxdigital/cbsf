@@ -35,20 +35,24 @@
 					          
 					        </div>
 					        </a>
+					        
 					        <div class="col-lg-4 mb-4">
-					        	<a href="fresh_water_fish.php">
 					        		<div class="card h-100">
 							            <div class="hovereffect">
+							            
 							              <img class="img-responsive" src="img/slides/home/V1.gif" alt="">
 							              <div class="overlay">
+							              	<a href="fresh_water_fish.php" target="_blank">
 							                <h2>Fresh Water Fish</h2>
 							                  <p> <a href="fresh_water_fish.php">Know About More</a> </p>
+							                  </a>
 							              </div>
 							            </div>
+							            
 							          </div>
-					        	</a>
-					          
 					        </div>
+					        
+
 					        <div class="col-lg-4 mb-4">
 						        <a href="shrimp_sea_food.php">
 						        	<div class="card h-100">
