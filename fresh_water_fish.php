@@ -25,7 +25,7 @@
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Fresh Water Fish</h1>
+								<h1 style="color:#fff">Fresh Water Fish</h1>
 							</div>
 						</div>
 					</div>

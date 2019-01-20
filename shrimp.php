@@ -18,145 +18,63 @@
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="index.php">Home</a></li>
-									<li class="active">Salt Water Fish</li>
+									<li class="active">Shrimp and Other Sea Food</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h1>Salt Water Fish</h1>
+								<h1>Shrimp and Other Sea Food</h1>
 							</div>
 						</div>
 					</div>
 				</section>
 				<div style="text-align: center;">
-					<h1 style="color:#fff;">Salt Water Fish</h1>
+					<h1 style="color:#fff">Shrimp</h1>
 				</div>
 
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 				<div class="container" style="text-align: center;">
 					<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
+
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="halibut.php" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-giant-black-tiger.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/halibut.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_freshwater.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Halibut</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
-						<div class="portfolio-item center">
-							<a href="hilsha.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/hilsha.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Hilsha (Ilish)</h5>
+								<h5 class="mb-xs">Shrimp (Giant Freshwater)</h5>
 							</a>
 						</div>
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="mackerel.php" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-giant-black-tiger.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/mackerel.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_giant_black_tiger.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Mackerel</h5>
+								<h5 class="mb-xs">Shrimp (Giant Black Tiger)</h5>
 							</a>
 						</div>
 					</li>
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
-							<a href="mahi-mahi.php" class="text-decoration-none block-link pt-md">
+							<a href="shrimp-vannamei.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/mahi.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/shrimp_vanemi.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Mahi-mahi</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
-						<div class="portfolio-item center">
-							<a href="moonfish.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/moonfish.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Moonfish (Opah)</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-						<div class="portfolio-item center">
-							<a href="pomfret.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/pomfet.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Pomfret</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-						<div class="portfolio-item center">
-							<a href="ribbon-fish.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/ribbon.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Ribbonfish</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-						<div class="portfolio-item center">
-							<a href="sardines.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/sardained.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Sardines</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-						<div class="portfolio-item center">
-							<a href="striped-red-mullet.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/striped_red_mullet.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Striped Red Mullet</h5>
-							</a>
-						</div>
-					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-						<div class="portfolio-item center">
-							<a href="yellow-croaker.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/yellow_croaker.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Yellow Croaker</h5>
+								<h5 class="mb-xs">Shrimp (Vannamei)</h5>
 							</a>
 						</div>
 					</li>
 					
+				</ul>
 				</div>
 
 				

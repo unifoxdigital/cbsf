@@ -39,7 +39,8 @@
 														<ul class="dropdown-menu">
 															<li><a href="fresh_water_fish.php" >Fresh water Fish</a></li>
 															<li><a href="salt_water_fish.php">Salt water Fish</a></li>
-															<li><a href="shrimp_sea_food.php">Shrimp and Other Sea Food</a></li>
+															<li><a href="shrimp.php">Shrimp</a></li>
+															<li><a href="sea_food.php">Other Sea Foods</a></li>
 														</ul>
 													</li>
 													<li class="dropdown">
