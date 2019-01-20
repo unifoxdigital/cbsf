@@ -4,7 +4,7 @@
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">
-								<a href="cbsf.php"><img class="mySlides" src="img/logos/cbsf.png"></a>
+								<a href="cbsf.php"><img class="mySlides" src="img/logos/c.png" style="width: 128px; height: 128px;"></a>
 								<a href="#"><img class="mySlides" src="img/logos/a_z.png"></a>
 								<a href="#"><img class="mySlides" src="img/logos/gsp.png"></a>
 								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png"></a>
