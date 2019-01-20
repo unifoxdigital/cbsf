@@ -36,7 +36,12 @@
 				</div>
 				<div style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
 					<div class="container" >
-					<p style="color: #fff; size: 36px"><font size="3">Cox’s Bazar Seafood (CBSF) and its group of companies offer the finest frozen seafood and freshwater fish products to wholesale businesses and retail trades around the world. They are established on the foundation of quality, reliability, variety, and consistency. They take sincere and well-deserved pride in sourcing its products from the grassroots fishermen, fish farmers and companies that focus on sustainability. Since CBSF is directly sourcing its products, it avoids several layers in the procurement and distribution process with zero compromises to quality. This allows FresHeaven and CBSF to supply high-quality products at competitive prices. CBSF and its group of companies currently supply to clients located in Canada, Australia, China, Dubai, United Kingdom, and the United States.</font></p>
+						<div style="text-align: center; margin-top: 12px;">
+							<h2><p style="color:#fff">Our Companies</p></h2>
+						</div>
+						
+
+						<p style="color: #fff; margin-top: 8px"><font size="3">Cox’s Bazar Seafood (CBSF) and its group of companies offer the finest frozen seafood and freshwater fish products to wholesale businesses and retail trades around the world. They are established on the foundation of quality, reliability, variety, and consistency. They take sincere and well-deserved pride in sourcing its products from the grassroots fishermen, fish farmers and companies that focus on sustainability. Since CBSF is directly sourcing its products, it avoids several layers in the procurement and distribution process with zero compromises to quality. This allows FresHeaven and CBSF to supply high-quality products at competitive prices. CBSF and its group of companies currently supply to clients located in Canada, Australia, China, Dubai, United Kingdom, and the United States.</font></p>
 
 					<div class="row">
 						<div class="col-md-6">
