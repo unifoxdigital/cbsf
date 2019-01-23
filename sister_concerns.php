@@ -32,7 +32,7 @@
 
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 				<div style="text-align: center;">
-					<img src="img/contact_us.png">
+					<img src="img/map.png" style="height: 560px; width: 960px;">
 				</div>
 				<div style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
 					<div class="container" >
@@ -43,87 +43,21 @@
 
 						<p style="color: #fff; margin-top: 8px"><font size="3">Cox’s Bazar Seafood (CBSF) and its group of companies offer the finest frozen seafood and freshwater fish products to wholesale businesses and retail trades around the world. They are established on the foundation of quality, reliability, variety, and consistency. They take sincere and well-deserved pride in sourcing its products from the grassroots fishermen, fish farmers and companies that focus on sustainability. Since CBSF is directly sourcing its products, it avoids several layers in the procurement and distribution process with zero compromises to quality. This allows FresHeaven and CBSF to supply high-quality products at competitive prices. CBSF and its group of companies currently supply to clients located in Canada, Australia, China, Dubai, United Kingdom, and the United States.</font></p>
 
-					<div class="row">
-						<div class="col-md-6">
+						<div class="row" style="margin-bottom: 16px;">
+					        <div class="col-lg-4 mb-4"> 
+					        </div>
 
-							<div class="alert alert-success hidden" id="contactSuccess">
-								<strong>Success!</strong> Your message has been sent to us.
-							</div>
+					        
+					        <div class="col-lg-4 mb-4">
+					        </div>
+					        
 
-							<div class="alert alert-danger hidden" id="contactError">
-								<strong>Error!</strong> There was an error sending your message.
-							</div>
-
-							<h2 class="mb-sm mt-sm"><strong>Contact</strong> Us</h2>
-							<form id="contactForm" action="php/contact-form.php" method="POST">
-								<div class="row">
-									<div class="form-group">
-										<div class="col-md-6">
-											<label>Your name *</label>
-											<input type="text" value="" data-msg-required="Please enter your name." maxlength="100" class="form-control" name="name" id="name" required>
-										</div>
-										<div class="col-md-6">
-											<label>Your email address *</label>
-											<input type="email" value="" data-msg-required="Please enter your email address." data-msg-email="Please enter a valid email address." maxlength="100" class="form-control" name="email" id="email" required>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group">
-										<div class="col-md-12">
-											<label>Subject</label>
-											<input type="text" value="" data-msg-required="Please enter the subject." maxlength="100" class="form-control" name="subject" id="subject" required>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="form-group">
-										<div class="col-md-12">
-											<label>Message *</label>
-											<textarea maxlength="5000" data-msg-required="Please enter your message." rows="10" class="form-control" name="message" id="message" required></textarea>
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-md-12">
-										<input type="submit" value="Send Message" class="btn btn-primary btn-lg mb-xlg" data-loading-text="Loading...">
-									</div>
-								</div>
-							</form>
-						</div>
-						<div class="col-md-6">
-
-							<h4 class="heading-primary mt-lg">Get in <strong>Touch</strong></h4>
-							<p>Want to be in touch with us. You can send a message or give us a call.</p>
-
-							<hr>
-
-							<h4 class="heading-primary">The <strong>Office</strong></h4>
-							<ul class="list list-icons list-icons-style-3 mt-xlg">
-								<li><i class="fa fa-map-marker"></i> <strong>Address:</strong> Hajee Para, Zhilongja, Main Road, Cox’s Bazar, Bangladesh</li>
-								<li><i class="fa fa-phone"></i> <strong>Phone:</strong> +880-341-63396</li>
-								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">cbsfsygn@gmail.com</a></li>
-							</ul>
-
-							<hr>
-
-							<h4 class="heading-primary">Business <strong>Hours</strong></h4>
-							<ul class="list list-icons list-dark mt-xlg">
-								<li><i class="fa fa-clock-o"></i> Sunday - Thrusday 9am to 5pm</li>
-							</ul>
-
-						</div>
-
+					        <div class="col-lg-4 mb-4">
+					      </div>
 					</div>
-					
-				</div>
-				
+					</div>
 
 				</div>
-
-			</div>
-
-			
 
 			<?php include('footer.php'); ?>
 		</div>
