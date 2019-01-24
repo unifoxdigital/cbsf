@@ -43,10 +43,10 @@
 							<a href="fresh_water_fish.php"><button class="btn" type="button"><span>Fish - Freshwater</span></button></a>
 						</div>
 						<div class="col-sm-3" style="text-align: center;">
-							<a href="shrimp_sea_food.php"><button class="btn" type="button"><span>Shrimp</span></button></a>
+							<a href="shrimp.php"><button class="btn" type="button"><span>Shrimp</span></button></a>
 						</div>
 						<div class="col-sm-3" style="text-align: center;">
-							<a href="shrimp_sea_food.php"><button class="btn" type="button"><span>Other seafoods</span></button></a>
+							<a href="sea_food.php"><button class="btn" type="button"><span>Other seafoods</span></button></a>
 						</div>
 					</div>
 					
