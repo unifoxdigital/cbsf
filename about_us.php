@@ -37,7 +37,7 @@
 
 					<div class="row">
 						<div class="col-md-12">
-							<div style="text-align: center;">
+							<div style="text-align: center; margin-top: 24px;">
 								<h1>About Us</h1>
 							</div>
 							<p>The unpolluted brackish waters of the Bay of Bengal are home of various species of marine shrimps and demersal fish. Among marine shrimps, major species in terms of volume of yield from catches, landings and aquaculture are the giant tiger shrimps and yellow shrimps.</p>

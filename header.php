@@ -1,14 +1,14 @@
 <!-- style="background-image: url(img/head_background.jpg);" -->
-<header id="header" data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-47px", "stickyChangeLogo": true}'>
-				<div class="header-body" >
+<header id="header"  data-plugin-options='{"stickyEnabled": true, "stickyEnableOnBoxed": true, "stickyEnableOnMobile": true, "stickyStartAt": 57, "stickySetTop": "-47px", "stickyChangeLogo": true}'>
+				<div class="header-body" style="background-color: #01579b" >
 					<div class="header-container container">
 						<div class="header-row">
 							<div class="header-column">
-								<a href="cbsf.php"><img class="mySlides" src="img/logos/c.png" style="width: 128px; height: 128px;"></a>
-								<a href="#"><img class="mySlides" src="img/logos/a_z.png"></a>
-								<a href="#"><img class="mySlides" src="img/logos/gsp.png"></a>
-								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png"></a>
-								<a href="#"><img class="mySlides" src="img/logos/ah.png"></a>
+								<a href="cbsf.php"><img class="mySlides" src="img/logos/c.png" style="width: 128px; height: 100px;"></a>
+								<a href="#"><img class="mySlides" src="img/logos/a_z.png" style="width: 128px; height: 100px;"></a>
+								<a href="#"><img class="mySlides" src="img/logos/gsp.png" style="width: 128px; height: 100px;"></a>
+								<a href="mazoon.php"><img class="mySlides" src="img/logos/msi.png" style="width: 128px; height: 100px;"></a>
+								<a href="#"><img class="mySlides" src="img/logos/ah.png" style="width: 128px; height: 100px;"></a>
 								<!-- <img class="mySlides" src="img/a.jpg"> -->
 							</div>
 							<div class="header-column">
@@ -26,25 +26,25 @@
 											<nav>
 												<ul class="nav nav-pills" id="mainNav">
 													<li class="dropdown dropdown-mega">
-														<a href="index.php">Home</a>
+														<a href="index.php" style="color: #fff">Home</a>
 													</li>
 													<li class="dropdown dropdown-mega">
-														<a href="about_us.php">About Us</a>
+														<a href="about_us.php" style="color: #fff">About Us</a>
 													</li>
 													<!-- <li class="dropdown dropdown-mega">
 														<a href="team.php">Team</a>
 													</li> -->
 													<li class="dropdown">
-														<a class="dropdown-toggle" href="products.php">Products</a>
+														<a class="dropdown-toggle" href="products.php" style="color: #fff">Products</a>
 														<ul class="dropdown-menu">
 															<li><a href="fresh_water_fish.php" >Fresh water Fish</a></li>
 															<li><a href="salt_water_fish.php">Salt water Fish</a></li>
-															<li><a href="shrimp.php">Shrimp</a></li>
-															<li><a href="sea_food.php">Other Sea Foods</a></li>
+															<li><a href="shrimp_sea_food.php">Shrimp & other Sea Foods</a></li>
+															<!-- <li><a href="sea_food.php">Other Sea Foods</a></li> -->
 														</ul>
 													</li>
 													<li class="dropdown">
-														<a class="dropdown-toggle" href="sister_concerns.php">Sister Concerns</a>
+														<a class="dropdown-toggle" href="sister_concerns.php" style="color: #fff">Sister Concerns</a>
 														<ul class="dropdown-menu">
 															<li><a href="cbsf.php" >Cox's Bazar Sea Foods</a></li>
 															<li><a href="a&z.php">A&Z International Co., Ltd. &<br> Global Seafoods Processing Ltd.</a></li>
@@ -52,7 +52,7 @@
 														</ul>
 													</li>
 													<li class="dropdown dropdown-mega">
-														<a href="contact_us.php">Contact Us</a>
+														<a href="contact_us.php" style="color: #fff">Contact Us</a>
 													</li>
 													
 													<!-- <li class="dropdown">
