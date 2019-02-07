@@ -43,7 +43,7 @@ h4 {
 }
 
 h5 {
-	font-size: 1em;
+	font-size: 14px;
 	font-weight: 600;
 	letter-spacing: normal;
 	line-height: 18px;
@@ -317,7 +317,7 @@ blockquote.with-borders {
 /* Paragraphs */
 p {
 	color: #777;
-	line-height: 24px;
+	line-height: 20px;
 	margin: 0 0 20px;
 }
 
@@ -4747,7 +4747,7 @@ html.boxed .pricing-table .plan, html.boxed .pricing-table h3 {
 }
 
 .thumb-info.thumb-info-preview .thumb-info-image {
-	min-height: 108px;
+	min-height: 135px;
 	display: block;
 	background-position: center top;
 	background-repeat: no-repeat;

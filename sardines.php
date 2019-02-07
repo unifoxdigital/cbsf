@@ -39,7 +39,7 @@
 								<div id="container">
 						            <ul class="slide">
 						                <li class="first" id="slide-1"><img src="fish/sardaines/1.webp" alt="" /></li>
-						                <li id="slide-2"><img src="fish/sardaines/2.webp" alt="" /></li>
+						                <li id="slide-2"><img src="img/fish/Sardines.png" alt="" /></li>
 						            </ul>
 						            <br>
 						            <ul class="thumbs">

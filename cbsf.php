@@ -1,42 +1,42 @@
 <!DOCTYPE html>
 <html>
-	<head>
+<head>
 
-		<?php include ('app.php'); ?>
+	<?php include ('app.php'); ?>
 
-	</head>
-	<body>
+</head>
+<body>
 
-		<div class="body" style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
-			<?php include ('header.php'); ?>
+	<div class="body" style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
+		<?php include ('header.php'); ?>
 
-			<div role="main" class="main">
+		<div role="main" class="main">
 
 
-				<section class="page-header">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-12">
-								<ul class="breadcrumb">
-									<li><a href="index.php">Home</a></li>
-									<li class="active">Cox's Bazar Sea Food</li>
-								</ul>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12">
-								<h1>Cox's Bazar Sea Food</h1>
-							</div>
+			<section class="page-header">
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<ul class="breadcrumb">
+								<li><a href="index.php">Home</a></li>
+								<li class="active">Cox's Bazar Sea Food</li>
+							</ul>
 						</div>
 					</div>
-				</section>
-				<div style="text-align: center;">
-					<h1 style="color:#fff">Cox's Bazar Sea Food</h1>
+					<div class="row">
+						<div class="col-md-12">
+							<h1>Cox's Bazar Sea Food</h1>
+						</div>
+					</div>
 				</div>
+			</section>
+			<div style="text-align: center;">
+				<h1 style="color:#fff">Cox's Bazar Sea Food</h1>
+			</div>
 
-				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
-				<div class="container" style="text-align: center;">
-					<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
+			<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
+			<div class="container" style="text-align: center;">
+				<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 						<div class="portfolio-item center">
 							<a href="#" class="text-decoration-none block-link pt-md">
@@ -45,7 +45,7 @@
 										<span class="thumb-info-image" data-original="img/fish/headon.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Bagda h/on</h5>
+								<h5 class="mb-xs">Bagda H/O</h5>
 							</a>
 						</div>
 					</li>
@@ -102,10 +102,10 @@
 							<a href="#" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/red_tiger.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/Cat-Tiger-HL.png" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Red Tiger</h5>
+								<h5 class="mb-xs">Cat Tiger H/L</h5>
 							</a>
 						</div>
 					</li>
@@ -114,10 +114,10 @@
 							<a href="#" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/cat.JPG" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/Cat-Tiger-HO.png" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Cat Tiger</h5>
+								<h5 class="mb-xs">Cat Tiger H/O</h5>
 							</a>
 						</div>
 					</li>
@@ -126,18 +126,30 @@
 							<a href="#" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/chali.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/Red-Tiger-HL.png" data-plugin-lazyload></span>
 									</span>
 								</span>
-								<h5 class="mb-xs">Chali</h5>
+								<h5 class="mb-xs">Red Tiger H/L</h5>
+							</a>
+						</div>
+					</li>
+					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
+						<div class="portfolio-item center">
+							<a href="#" class="text-decoration-none block-link pt-md">
+								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
+									<span class="thumb-info-wrapper">
+										<span class="thumb-info-image" data-original="img/fish/Sea-Pink-HL.png" data-plugin-lazyload></span>
+									</span>
+								</span>
+								<h5 class="mb-xs">Sea Pink H/L</h5>
 							</a>
 						</div>
 					</li>
 					
 				</ul>
-				</div>
+			</div>
 
-				
+
 
 			
 
@@ -183,7 +195,7 @@
 					- http://universimmedia.pagesperso-orange.fr/geo/loc.htm
 					- http://www.findlatitudeandlongitude.com/find-address-from-latitude-and-longitude/
 
-			*/
+					*/
 
 			// Map Markers
 			var mapMarkers = [{
@@ -239,7 +251,7 @@
 			ga('create', 'UA-12345678-1', 'auto');
 			ga('send', 'pageview');
 		</script>
-		 -->
+	-->
 
-	</body>
+</body>
 </html>

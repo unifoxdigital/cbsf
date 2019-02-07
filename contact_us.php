@@ -94,7 +94,7 @@
 
 							<h4 class="heading-primary">The <strong>Office</strong></h4>
 							<ul class="list list-icons list-icons-style-3 mt-xlg">
-								<li><i class="fa fa-map-marker"></i> <strong>Address:</strong> Hajee Para, Zhilongja, Main Road, Cox’s Bazar, Bangladesh</li>
+								<li><i class="fa fa-map-marker"></i> <strong>Address:</strong> Hajee Para, Zhilongja, Main Road, Cox's Bazar, Bangladesh</li>
 								<li><i class="fa fa-phone"></i> <strong>Phone:</strong> +880-341-63396</li>
 								<li><i class="fa fa-envelope"></i> <strong>Email:</strong> <a href="mailto:mail@example.com">cbsfsygn@gmail.com</a></li>
 							</ul>

@@ -12,7 +12,7 @@ body {
 	background-color: #FFF;
 	color: #777;
 	font-family: "Open Sans", Arial, sans-serif;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 22px;
 	margin: 0;
 	overflow-x: hidden;
@@ -301,7 +301,7 @@ li {
 	color: #FFF;
 	display: none;
 	float: right;
-	margin: 12px 0 8px 15px;
+	margin: -65px 0 8px 15px;
 }
 
 #header.header-narrow .header-body {
@@ -458,13 +458,13 @@ html:not(.sticky-header-active) #header.header-transparent-sticky-deactive .head
 @media (min-width: 992px) {
 	#header .header-nav-main {
 		float: right;
-		margin: 12px 0 0;
+		margin: 35px 0 0;
 		min-height: 45px;
 	}
 
 	#header .header-nav-main nav > ul > li > a {
 		border-radius: 4px;
-		font-size: 12px;
+		font-size: 14px;
 		font-style: normal;
 		font-weight: 700;
 		line-height: 20px;
@@ -2519,8 +2519,8 @@ section.section-custom-map-2 section.section {
 	background: #fff;
 	border-top: 4px solid #fff;
 	font-size: 0.9em;
-	margin-top: 50px;
-	padding: 70px 0 0;
+	margin-top: 28px;
+	padding: 30px 0px 0px 0px;
 	position: relative;
 	clear: both;
 }
@@ -2542,8 +2542,12 @@ section.section-custom-map-2 section.section {
 }
 
 #footer h4 {
-	font-size: 1.8em;
+	font-size: 20px;
 	font-weight: 200;
+}
+#footer p {
+	font-size: 14px;
+
 }
 
 #footer h5 {
@@ -2693,7 +2697,7 @@ section.section-custom-map-2 section.section {
 }
 
 #footer .contact p {
-	margin-bottom: 10px;
+	/*margin-bottom: 10px;*/
 }
 
 #footer .logo {
@@ -2908,7 +2912,7 @@ html.dark #header .header-nav-top .dropdown-menu {
 }
 
 html.dark #header .header-nav-top .dropdown-menu a:hover, html.dark #header .header-nav-top .dropdown-menu a:focus {
-	background: #282d36 !important;
+	background: #fff !important;
 }
 
 html.dark.sticky-header-active #header .header-body {

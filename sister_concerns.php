@@ -36,20 +36,20 @@
 				</div>
 				<div style="background-image: url('img/products_backgrouns.png'); background-repeat: round; background-attachment: fixed">
 					<div class="container" >
-						<div style="text-align: center; margin-top: 12px;">
-							<h2><p style="color:#fff">Our Companies</p></h2>
+						<div style="text-align: center;">
+							<h2><p style="color:#fff;padding: 30px 0px;">Our Companies</p></h2>
 						</div>
 						
 
-						<p style="color: #fff; margin-top: 8px"><font size="3">Cox’s Bazar Seafood (CBSF) and its group of companies offer the finest frozen seafood and freshwater fish products to wholesale businesses and retail trades around the world. They are established on the foundation of quality, reliability, variety, and consistency. They take sincere and well-deserved pride in sourcing its products from the grassroots fishermen, fish farmers and companies that focus on sustainability. Since CBSF is directly sourcing its products, it avoids several layers in the procurement and distribution process with zero compromises to quality. This allows FresHeaven and CBSF to supply high-quality products at competitive prices. CBSF and its group of companies currently supply to clients located in Canada, Australia, China, Dubai, United Kingdom, and the United States.</font></p>
+						<p style="color: #fff; margin-top: 8px"><font size="3">Cox's Bazar Seafood (CBSF) and its group of companies offer the finest frozen seafood and freshwater fish products to wholesale businesses and retail trades around the world. They are established on the foundation of quality, reliability, variety, and consistency. They take sincere and well-deserved pride in sourcing its products from the grassroots fishermen, fish farmers and companies that focus on sustainability. Since CBSF is directly sourcing its products, it avoids several layers in the procurement and distribution process with zero compromises to quality. This allows FresHeaven and CBSF to supply high-quality products at competitive prices. CBSF and its group of companies currently supply to clients located in Canada, Australia, China, Dubai, United Kingdom, and the United States.</font></p>
 
 						<div class="row" style="margin-bottom: 16px;">
 					        <div class="col-lg-4 mb-4"> 
 					        	<img src="img/sister_concerns/1.jpg" style="width: 348px; height: 258px;">
 					        	<h3 style="color: #fff; margin-top: 8px;">Cox's Bazar Seafood</h3>
 					        	<h4 style="color: #fff;">Dhaka and Cox's Bazar, Bangladesh.</h4>
-					        	<p style="color: #fff;">Cox's Bazar Seafood (CBSF) was established in 1986 and strategically located itself in the seaside city of Cox’s Bazar, Bangladesh, with the goal to source and export the highest quality and sustainable frozen seafood and freshwater fish products. Using its state of the art processing plant, freezers, and packaging machines, CBSF has successfully maintained consistent quality and supplies seafood and freshwater fish to clients around the world.</p>
-					        	<p style="color: #fff;">Address:House# 413, Rd# 7 (West), Baridhara DOHS, Dhaka, Bangladesh.</p>
+					        	<p style="color: #fff;">Cox's Bazar Seafood (CBSF) was established in 1986 and strategically located itself in the seaside city of Cox's Bazar, Bangladesh, with the goal to source and export the highest quality and sustainable frozen seafood and freshwater fish products. Using its state of the art processing plant, freezers, and packaging machines, CBSF has successfully maintained consistent quality and supplies seafood and freshwater fish to clients around the world.</p>
+					        	<p style="color: #fff;">Address: Hajee Para, Zhilongja, Main Road, Cox's Bazar, Bangladesh.</p>
 					        </div>
 
 					        
@@ -68,7 +68,7 @@
 					        	<h3 style="color: #fff; margin-top: 8px;">Mazoon Sky International L.L.C.</h3>
 					        	<h4 style="color: #fff;">Muscat, Oman.</h4>
 					        	<p style="color: #fff;">The increasing reputation for consistent  quality seafood and freshwater fish, and respecting the client's urgency helped the group to grow more. Mazoon Sky International (MSI) LLC was strategically established in Muscat, Oman's seaport capital, in 2016, to meet the increasing demand for seafood. MSI continues to source and export premium quality sustainable seafood to clients around the world.</p>
-					        	<p style="color: #fff;">Address: C.R. No. 1294513, P.O. Box: 91, P.C.: 114, Sultanate of Oman.​</p>
+					        	<p style="color: #fff;">Address: C.R. No. 1294513, P.O. Box: 91, P.C.: 114, Sultanate of Oman</p>
 					      	</div>
 						</div>
 					</div>

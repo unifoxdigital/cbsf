@@ -30,14 +30,14 @@
 					</div>
 				</section>
 				<div style="text-align: center;">
-					<h1 style="color:#fff">Shrimp</h1>
+					<h1 style="color:#fff">Shrimp and Other Sea Food</h1>
 				</div>
 
 				<!-- Google Maps - Go to the bottom of the page to change settings and map location. -->
 				<div class="container" style="text-align: center;">
 					<ul class="portfolio-list sort-destination full-width-spaced mb-xl" data-sort-id="portfolio" id="homeOverview">
 
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
+					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
 							<a href="shrimp-giant-black-tiger.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
@@ -98,7 +98,7 @@
 						</div>
 					</li>
 					
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
+					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic ">
 						<div class="portfolio-item center">
 							<a href="soft-shell-crab.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
