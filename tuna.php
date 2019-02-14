@@ -38,13 +38,13 @@
 							<!--Slider Will goes here-->
 								<div id="container">
 						            <ul class="slide">
-						                <li class="first" id="slide-1"><img src="fish/tuna/1.webp" alt="" /></li>
-						                <li id="slide-2"><img src="fish/tuna/2.webp" alt="" /></li>
+						                <li class="first" id="slide-1"><img src="fish/tuna/Tuna.jpg" alt="" /></li>
+						                <!-- <li id="slide-2"><img src="fish/tuna/2.webp" alt="" /></li> -->
 						            </ul>
 						            <br>
 						            <ul class="thumbs">
-						                <li><a href="#slide-1"><img src="fish/tuna/1.webp" /></a></li>
-						                <li><a href="#slide-2"><img src="fish/tuna/2.webp" /</a></li>
+						                <li><a href="#slide-1"><img src="fish/tuna/Tuna.jpg" /></a></li>
+						                <!-- <li><a href="#slide-2"><img src="fish/tuna/2.webp" /</a></li> -->
 						            </ul>
 						        </div>
 						</div> 

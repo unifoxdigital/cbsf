@@ -42,16 +42,16 @@
 						                <li id="slide-2"><img src="fish/cuttlefish/2.webp" alt="" /></li>
 						                <li id="slide-3"><img src="fish/cuttlefish/3.webp" alt="" /></li>
 						                <li id="slide-4"><img src="fish/cuttlefish/4.webp" alt="" /></li>
-						                <li id="slide-5"><img src="fish/cuttlefish/5.webp" alt="" /></li>
+						                <li id="slide-5"><img src="fish/cuttlefish/Cuttle Fish.jpg" alt="" /></li>
 						               
 						            </ul>
 						            <br>
 						            <ul class="thumbs">
-						                <li><a href="#slide-1"><img src="fish/cuttlefish/1.webp" /></a></li>
+						                <!-- <li><a href="#slide-1"><img src="fish/cuttlefish/1.webp" /></a></li> -->
 						                <li><a href="#slide-2"><img src="fish/cuttlefish/2.webp" /</a></li>
 						                <li><a href="#slide-3"><img src="fish/cuttlefish/3.webp" /</a></li>
 						                <li><a href="#slide-4"><img src="fish/cuttlefish/4.webp" /</a></li>
-						                <li><a href="#slide-5"><img src="fish/cuttlefish/5.webp" /</a></li>
+						                <li><a href="#slide-5"><img src="fish/cuttlefish/Cuttle Fish.jpg"/</a></li>
 						            </ul>
 						        </div>
 						</div> 

@@ -22,7 +22,7 @@
 			</div>
 			<div class="col-md-3">
 				<h4>Important Links</h4>
-				<p style="font-size: 15px;color:#fff;font-style:bold;"><a href="http://globe.farmersmarket.asia/login" target="_blank">e-Tracability</a></p>
+				<p style="font-size: 15px;color:#fff;font-style:bold;"><a href="http://globe.farmersmarket.asia/login" target="_blank">e-Traceability</a></p>
 			</div>
 			<div class="col-md-3">
 				<h4>Follow Us</h4>

@@ -39,13 +39,13 @@
 								<div id="container">
 						            <ul class="slide">
 						                <li class="first" id="slide-1"><img src="fish/mrigal/1.webp" alt="" /></li>
-						                <li id="slide-2"><img src="fish/mrigal/2.webp" alt="" /></li>
+						                <li id="slide-2"><img src="fish/mrigal/02.jpg" alt="" /></li>
 						               
 						            </ul>
 						            <br>
 						            <ul class="thumbs">
 						                <li><a href="#slide-1"><img src="fish/mrigal/1.webp" /></a></li>
-						                <li><a href="#slide-2"><img src="fish/mrigal/2.webp" /</a></li>
+						                <li><a href="#slide-2"><img src="fish/mrigal/02.jpg" /</a></li>
 						            </ul>
 						        </div>
 						</div> 

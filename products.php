@@ -43,12 +43,12 @@
 		<div class="container">
 			<div class="row" >
 				<div class="col-md-4 padding_1 " style="text-align: center;" >
-					<a href="fresh_water_fish.php"><button class="btn btn-info" type="button"><span>Fish - Fresh Water</span></button></a>
+					<a href="fresh_water_fish.php"><button class="btn btn-info" type="button"><span>Fish : Fresh Water</span></button></a>
 				</div>
 				<div class="col-md-4 padding_1" style="text-align: center;" >
 					<a href="salt_water_fish.php"><button class="btn btn-info" type="button"><span>Fish: Sea Water</span></button></a>
 				</div>
-				<div class="col-md-4" style="text-align: center;" >
+				<div class="col-md-4 " style="text-align: center;" >
 					<a href="shrimp_sea_food.php"><button class="btn btn-info" type="button"><span>Shrimp and Other Seafoods</span></button></a>
 				</div>
 			</div>
@@ -94,7 +94,7 @@
 						</a>
 					</div>
 				</li>
-				<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
+<!-- 				<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 					<div class="portfolio-item center">
 						<a href="calamari.php" class="text-decoration-none block-link pt-md">
 							<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
@@ -105,7 +105,7 @@
 							<h5 class="mb-xs">Calamari (Squid)</h5>
 						</a>
 					</div>
-				</li>
+				</li> -->
 				<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
 					<div class="portfolio-item center">
 						<a href="cuttlefish.php" class="text-decoration-none block-link pt-md">
@@ -130,25 +130,25 @@
 						</a>
 					</div>
 				</li>
-				<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
-					<div class="portfolio-item center">
-						<a href="halibut.php" class="text-decoration-none block-link pt-md">
-							<span class="thumb-info thumb-info-preview mb-md">
-								<span class="thumb-info-wrapper">
-									<span class="thumb-info-image" data-original="img/fish/halibut.jpg" data-plugin-lazyload></span>
-								</span>
-							</span>
-							<h5 class="mb-xs">Halibut</h5>
+				<!--<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">-->
+				<!--	<div class="portfolio-item center">-->
+				<!--		<a href="halibut.php" class="text-decoration-none block-link pt-md">-->
+				<!--			<span class="thumb-info thumb-info-preview mb-md">-->
+				<!--				<span class="thumb-info-wrapper">-->
+				<!--					<span class="thumb-info-image" data-original="img/fish/halibut.jpg" data-plugin-lazyload></span>-->
+				<!--				</span>-->
+				<!--			</span>-->
+				<!--			<h5 class="mb-xs">Halibut</h5>-->
 
-						</a>
-					</div>
-				</li>
+				<!--		</a>-->
+				<!--	</div>-->
+				<!--</li>-->
 				<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 					<div class="portfolio-item center">
 						<a href="hilsha.php" class="text-decoration-none block-link pt-md">
 							<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 								<span class="thumb-info-wrapper">
-									<span class="thumb-info-image" data-original="img/fish/hilsha.jpg" data-plugin-lazyload></span>
+									<span class="thumb-info-image" data-original="fish/hilsha/1.jpg" data-plugin-lazyload></span>
 								</span>
 							</span>
 							<h5 class="mb-xs">Hilsa (Ilish)</h5>

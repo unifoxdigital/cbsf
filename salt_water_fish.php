@@ -77,25 +77,14 @@
 							<a href="mahi-mahi.php" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/mahi.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="fish/mahimahi/Display.jpg" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Mahi-mahi</h5>
 							</a>
 						</div>
 					</li>
-					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item classic">
-						<div class="portfolio-item center">
-							<a href="moonfish.php" class="text-decoration-none block-link pt-md">
-								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
-									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/moonfish.jpg" data-plugin-lazyload></span>
-									</span>
-								</span>
-								<h5 class="mb-xs">Moonfish (Opah)</h5>
-							</a>
-						</div>
-					</li>
+
 					<li class="col-md-3 col-sm-6 col-xs-12 isotope-item corporate">
 						<div class="portfolio-item center">
 							<a href="pomfret.php" class="text-decoration-none block-link pt-md">

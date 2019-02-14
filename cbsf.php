@@ -42,7 +42,7 @@
 							<a href="#" class="text-decoration-none block-link pt-md">
 								<span class="thumb-info thumb-info-preview thumb-info-preview-long mb-md">
 									<span class="thumb-info-wrapper">
-										<span class="thumb-info-image" data-original="img/fish/headon.jpg" data-plugin-lazyload></span>
+										<span class="thumb-info-image" data-original="img/fish/headon.png" data-plugin-lazyload></span>
 									</span>
 								</span>
 								<h5 class="mb-xs">Bagda H/O</h5>

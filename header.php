@@ -60,7 +60,7 @@
 														</ul>
 													</li>
 													<li class="dropdown dropdown-mega">
-														<a href="http://globe.farmersmarket.asia/login" class="menu1" target="_blank" style="color: #01579b">e-Traceability</a>
+														<a href="http://farmersmarket.asia/cbsf/login" class="menu1" target="_blank" style="color: #01579b">e-Traceability</a>
 													</li>
 													<li class="dropdown dropdown-mega">
 														<a href="contact_us.php" class="menu1" style="color: #01579b">Contact Us</a>
